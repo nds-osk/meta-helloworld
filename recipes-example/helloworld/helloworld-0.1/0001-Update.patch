@@ -1,0 +1,13 @@
+diff --git a/src/hello.c b/src/hello.c
+index 225fc8d..95ab470 100644
+--- a/src/hello.c
++++ b/src/hello.c
+@@ -1,7 +1,7 @@
+ #include <stdio.h>
+ 
+ int main(void) {
+-    printf("hello world!\n");
++    printf("Hello World!\n");
+ 
+     return 0;
+ }
